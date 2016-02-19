@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{210BA222-BCC9-2333-5673-22B6F785419E}") = "animal battle", "Assembly-CSharp.csproj", "{2F1CBDD9-7299-72C6-77CB-F67210C364C7}"
+EndProject
+Project("{210BA222-BCC9-2333-5673-22B6F785419E}") = "animal battle", "Assembly-CSharp-Editor.csproj", "{42DD0298-281D-F316-AB18-E8752A34C3FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F1CBDD9-7299-72C6-77CB-F67210C364C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F1CBDD9-7299-72C6-77CB-F67210C364C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F1CBDD9-7299-72C6-77CB-F67210C364C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F1CBDD9-7299-72C6-77CB-F67210C364C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42DD0298-281D-F316-AB18-E8752A34C3FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42DD0298-281D-F316-AB18-E8752A34C3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42DD0298-281D-F316-AB18-E8752A34C3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42DD0298-281D-F316-AB18-E8752A34C3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
